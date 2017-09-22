@@ -1,2 +1,7 @@
 c:\users\andrey\desktop\documents\visual studio 2013\Projects\Lolita_and_I\Lolita_and_I\bin\Debug\Lolita_and_I.exe.config
 C:\Users\Andrey\Desktop\Documents\GitHub\Loloshik\Lolita_and_I\Lolita_and_I\bin\Debug\Lolita_and_I.exe.config
+C:\Users\Andrey\Desktop\Documents\GitHub\Loloshik\Lolita_and_I\Lolita_and_I\bin\Debug\Lolita_and_I.exe
+C:\Users\Andrey\Desktop\Documents\GitHub\Loloshik\Lolita_and_I\Lolita_and_I\bin\Debug\Lolita_and_I.pdb
+C:\Users\Andrey\Desktop\Documents\GitHub\Loloshik\Lolita_and_I\Lolita_and_I\obj\Debug\Lolita_and_I.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Desktop\Documents\GitHub\Loloshik\Lolita_and_I\Lolita_and_I\obj\Debug\Lolita_and_I.exe
+C:\Users\Andrey\Desktop\Documents\GitHub\Loloshik\Lolita_and_I\Lolita_and_I\obj\Debug\Lolita_and_I.pdb

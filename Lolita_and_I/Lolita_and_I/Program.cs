@@ -10,6 +10,7 @@ namespace Lolita_and_I
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Я помню чудное мгновение");
         }
     }
 }
