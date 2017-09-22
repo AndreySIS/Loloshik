@@ -5,3 +5,6 @@ C:\Users\Andrey\Desktop\Documents\GitHub\Loloshik\Lolita_and_I\Lolita_and_I\bin\
 C:\Users\Andrey\Desktop\Documents\GitHub\Loloshik\Lolita_and_I\Lolita_and_I\obj\Debug\Lolita_and_I.csprojResolveAssemblyReference.cache
 C:\Users\Andrey\Desktop\Documents\GitHub\Loloshik\Lolita_and_I\Lolita_and_I\obj\Debug\Lolita_and_I.exe
 C:\Users\Andrey\Desktop\Documents\GitHub\Loloshik\Lolita_and_I\Lolita_and_I\obj\Debug\Lolita_and_I.pdb
+C:\Users\Лолита\Documents\GitHub\Loloshik\Lolita_and_I\Lolita_and_I\bin\Debug\Lolita_and_I.exe.config
+C:\Users\Лолита\Documents\GitHub\Loloshik\Lolita_and_I\Lolita_and_I\obj\Debug\Lolita_and_I.exe
+C:\Users\Лолита\Documents\GitHub\Loloshik\Lolita_and_I\Lolita_and_I\obj\Debug\Lolita_and_I.pdb
